@@ -1,0 +1,12 @@
+recursive-include docs *.rst
+include docs/conf.py
+include docs/Makefile
+include docs/_themes/bootstrap.zip
+prune docs/_build
+
+include eg/*.py
+include tests/*.py
+
+include LICENSE
+include requirements-tests.txt
+include tox.ini
