@@ -3,6 +3,13 @@ http a HTTP library for Python
 
 http is heavily inspired by the `HTTP::Message <https://metacpan.org/module/HTTP::Message>`__ distribution.
 
+Note
+----
+
+This repo was created to preserve the history of https://pypi.org/project/http/
+it was manually re-created by downloading the history of sdists.
+This repo is not currently owned, operated or endorsed by Franck Cuny
+
 Synopsis
 --------
 
