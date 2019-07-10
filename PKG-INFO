@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: http
-Version: 0.1
+Version: 0.02
 Summary: HTTP library for Python
 Home-page: https://github.com/franckcuny/http
 Author: Franck Cuny

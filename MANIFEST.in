@@ -8,5 +8,6 @@ include eg/*.py
 include tests/*.py
 
 include LICENSE
+include README.rst
 include requirements-tests.txt
 include tox.ini

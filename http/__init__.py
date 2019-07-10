@@ -7,7 +7,7 @@ http
 """
 
 __title__ = 'http'
-__version__ = '0.1'
+__version__ = '0.02'
 __author__ = 'Franck Cuny'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2012 Franck Cuny'
