@@ -63,11 +63,9 @@ I also recommend to use `virtualenv <https://pypi.org/project/virtualenv/>`__ an
 
 To get the sources and install all the requirements:
 
-```
     $ pip install http
     $ git clone git://github.com/franckcuny/http.git
     $ cd http
     $ virtualenv env
     $ source virtualenv/bin/activate
     $ pip install -r requirements-test.txt
-```
