@@ -57,11 +57,15 @@ Links
 How to get?
 -----------
 
-Install with "pip" command:
+At the moment, the only way to get http is by checking out the development version.
+
+I also recommend to use `virtualenv <https://pypi.org/project/virtualenv/>`__ and `pip <https://pypi.org/project/pip/>`__ to work with this repository.
+
+To get the sources and install all the requirements:
 
     $ pip install http
-
-or check out development version:
-
     $ git clone git://github.com/franckcuny/http.git
-
+    $ cd http
+    $ virtualenv env
+    $ source virtualenv/bin/activate
+    $ pip install -r requirements-test.txt
